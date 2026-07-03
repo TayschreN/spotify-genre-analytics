@@ -3,6 +3,7 @@
 Pipeline completo de dados — da ingestão à predição — para explorar se **características sonoras** de uma faixa (dançabilidade, energia, acusticidade, etc.) conseguem prever seu **gênero musical**, sem depender de métricas de popularidade ou de marketing.
 
 ![Dashboard](imagens/tela1.png)
+![Dashboard](imagens/tela2.png)
 ---
 
 ## 📌 Sobre o projeto
