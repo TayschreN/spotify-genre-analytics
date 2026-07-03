@@ -1,6 +1,7 @@
 # 🎵 Spotify Genre Analytics
 
 Pipeline completo de dados — da ingestão à predição — para explorar se **características sonoras** de uma faixa (dançabilidade, energia, acusticidade, etc.) conseguem prever seu **gênero musical**, sem depender de métricas de popularidade ou de marketing.
+https://spotify-genre-analytics.streamlit.app/ - Dashboard Online 
 
 ![Dashboard](imagens/tela1.png)
 ![Dashboard](imagens/tela2.png)
