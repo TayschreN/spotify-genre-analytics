@@ -2,12 +2,7 @@
 
 Pipeline completo de dados — da ingestão à predição — para explorar se **características sonoras** de uma faixa (dançabilidade, energia, acusticidade, etc.) conseguem prever seu **gênero musical**, sem depender de métricas de popularidade ou de marketing.
 
-**[Dashboard interativo (Streamlit)](#-como-rodar)** · **[Notebook de EDA](notebooks/01_eda.ipynb)** · Dataset: [Spotify Tracks Dataset (Kaggle)](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
-
-
 ![Dashboard](imagem/tela1.png)
-
-
 ---
 
 ## 📌 Sobre o projeto
